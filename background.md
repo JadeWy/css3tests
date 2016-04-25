@@ -44,3 +44,4 @@ GradientType='0');
 startColorstr 表示起点的颜色，
 endColorstr 表示终点颜色。
 GradientType 表示渐变类型，0为缺省值，表示垂直渐变，1表示水平渐变。
+
